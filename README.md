@@ -84,7 +84,7 @@ Totally same as the blockchain_server.py, except its running port and public_key
 
 In the blockchain network, the public key and its hash value is exposed to the network. The public key is needed to locate the school and verify the sign of records.
 
-## 启动
+## Run
 
 Run blockchain_server.py and blockchain_server2.py in any order. If you can see the information below, you can request APIs via http://localhost:{port}.
 
